@@ -1,0 +1,9 @@
+{
+    "name": "Website blocker",
+    "version": "1.0",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+      "scripts": ["content.js"]
+    },  
+    "manifest_version": 2
+  }

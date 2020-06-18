@@ -1,0 +1,12 @@
+body {
+  background-image: url("./golden.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+div {
+  font-size: 5rem;
+  width: 50%;
+  margin-left: 2.2em;
+  font-family: "Just Me Again Down Here", cursive;
+}
